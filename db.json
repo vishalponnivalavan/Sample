@@ -1,0 +1,22 @@
+[
+    {
+        "riskScenarioId": 7,
+        "riskScenarioName": "scenario1 updated",
+        "maximumRiskScore": 400
+    },
+    {
+        "riskScenarioId": 9,
+        "riskScenarioName": "scenario1304",
+        "maximumRiskScore": 400
+    },
+    {
+        "riskScenarioId": 8,
+        "riskScenarioName": "scenario1",
+        "maximumRiskScore": 400
+    },
+    {
+        "riskScenarioId": 10,
+        "riskScenarioName": "scenario1317",
+        "maximumRiskScore": 400
+    }
+]
